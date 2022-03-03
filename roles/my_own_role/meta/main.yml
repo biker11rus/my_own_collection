@@ -1,0 +1,7 @@
+galaxy_info:
+  author: Ruslan Khozyainov
+  description: role for test module
+  license: etc
+  min_ansible_version: 2.1
+  role_name: my_own_role
+  galaxy_tags: []
